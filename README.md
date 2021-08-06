@@ -14,6 +14,6 @@ Running the code requires `PyRoss`, see
 >> pip install -r requirements.txt
 ```
 
-The notebook BC1.ipynb shows the setup and the results for the model variant BC1, which is one of the most detailed model variants. Other model variants follow by removing details.
+The notebook BC1.ipynb shows the setup and the results for the model variant BC1, which is one of our most detailed model variants. Other model variants follow by removing details.
 
 (see medRxiv:2021.03.10.21253311 for definitions of terms.)
