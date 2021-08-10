@@ -1,5 +1,5 @@
 # pyross-ifr-change
-Code for the Bayesian inference of changes of Covid-19 using pyross
+Code for the Bayesian inference of changes of Covid-19 using `PyRoss`
 
 Supporting information for "Bayesian inference across multiple models suggests a strong increase in lethality of COVID-19 in late 2020 in the UK"
 
